@@ -1,6 +1,6 @@
 import React from "react"
-import { useStaticQuery, graphql } from "images"
-import Img from "IMG_0091.JPG"
+import { useStaticQuery, graphql } from "gatsby"
+import Img from "gatsby-image"
 
 /*
  * This component is built using `gatsby-image` to automatically serve optimized
